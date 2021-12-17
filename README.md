@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![bgraph-logo](./images/bgraph_logo_3-removebg-preview.png)
-### b graph 
-is the data-analysis platform for quant traders
+b graph is the data-analysis platform for quant traders
 
 ---
 
