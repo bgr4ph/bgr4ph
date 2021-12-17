@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bgr4ph/bgr4ph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![logo](./images/bgraph_logo_3.PNG)
+### B Graph
