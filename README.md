@@ -14,6 +14,7 @@ bgraph is organized into working groups (WGs) with associated repositories, that
 * [Dashboard](https://github.com/bgr4ph/dashboard)
 * [PairTrade](https://github.com/bgr4ph/pair-trade)
 * [BackTest](https://github.com/bgr4ph/backtest)
+* [creonAPI](https://github.com/bgr4ph/creon-api)
 
 ## Quick Links
 * [bgraph](https://www.bgr4ph.com)
