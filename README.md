@@ -1,4 +1,4 @@
-![bgraph-logo](./images/bgraph_logo_3-removebg-preview.png)
+![bgraph-logo](./images/bgraph-removebg-preview.png)
 
 **b graph** is the data-analysis platform for quant traders
 
